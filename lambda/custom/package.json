@@ -1,0 +1,11 @@
+{
+  "name": "software-developer-facts",
+  "version": "1.0.0",
+  "description": "Software Developer Facts skill",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  }
+}

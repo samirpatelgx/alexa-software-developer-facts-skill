@@ -1,0 +1,45 @@
+{
+    "interactionModel":{
+      "languageModel": {
+        "intents": [
+          {
+            "name": "AMAZON.CancelIntent",
+            "samples": []
+          },
+          {
+            "name": "AMAZON.HelpIntent",
+            "samples": [
+              "i need help",
+              "help"
+            ]
+          },
+          {
+            "name": "AMAZON.StopIntent",
+            "samples": [
+              "stop",
+              "i give up"
+            ]
+          },
+          {
+            "name": "GetNewFactIntent",
+            "samples": [
+              "a fact",
+              "tell me a fact",
+              "give me a fact",
+              "give me a developer fact",
+              "tell me trivia",
+              "tell me a developer trivia",
+              "give me trivia",
+              "give me a developer trivia",
+              "give me some information",
+              "give me some developer information",
+              "tell me something",
+              "give me something"
+            ],
+            "slots": []
+          }
+        ],
+        "invocationName": "software developer facts"
+      }
+    }
+}
